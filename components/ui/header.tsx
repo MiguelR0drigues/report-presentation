@@ -28,7 +28,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <a
-                  href="../../public/Relatorio_Estagio_Miguel_Rodrigues.pdf"
+                  href="/Relatorio_Estagio_Miguel_Rodrigues.pdf"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
                   download
                 >

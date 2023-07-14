@@ -35,7 +35,7 @@ export default function Footer() {
                 <ul>
                   <li className="mb-1">
                     <a
-                      href="../../public/Relatorio_Estagio_Miguel_Rodrigues.pdf"
+                      href="/Relatorio_Estagio_Miguel_Rodrigues.pdf"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                       download
                     >

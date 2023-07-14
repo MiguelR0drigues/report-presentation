@@ -70,7 +70,7 @@ export default function MobileMenu() {
         <ul className="bg-gray-800 px-4 py-2">
           <li>
             <a
-              href="../../public/Relatorio_Estagio_Miguel_Rodrigues.pdf"
+              href="/Relatorio_Estagio_Miguel_Rodrigues.pdf"
               className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
               download
             >
